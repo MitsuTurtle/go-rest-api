@@ -19,7 +19,7 @@ type userUsecase struct {
 	ur repository.IUserRepository
 }
 
-func NewUsercase(ur repository.IUserRepository) IUserUsecase {
+func NewUserUsecase(ur repository.IUserRepository) IUserUsecase {
 	return &userUsecase{ur}
 }
 
