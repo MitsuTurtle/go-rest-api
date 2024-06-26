@@ -12,7 +12,7 @@ https://github.com/MitsuTurtle/go-rest-api
 
 ## フロントエンド
 
-https://github.com/GomaGoma676/react-todo/blob/main/src/components/Todo.tsx
+https://github.com/MitsuTurtle/react-todo
 
 # 開発環境の起動
 
